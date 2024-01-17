@@ -1,6 +1,11 @@
-import GradientCircle from '@/components/GradientReact/GradientCircle/GradientCircle';
-import GradientContain from '@/components/GradientReact/GradientContain/GradientContain';
-import GradientContent from '@/components/GradientReact/GradientContent/GradientContent';
+// import GradientCircle from '@/components/GradientReact/GradientCircle/GradientCircle';
+// import GradientContain from '@/components/GradientReact/GradientContain/GradientContain';
+// import GradientContent from '@/components/GradientReact/GradientContent/GradientContent';
+import {
+	GradientCircle,
+	GradientContent,
+	GradientContain,
+} from 'gradient-react-component';
 
 export default function Home() {
 	return (
